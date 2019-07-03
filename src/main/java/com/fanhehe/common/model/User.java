@@ -1,6 +1,8 @@
 package com.fanhehe.common.model;
 
+import javax.annotation.Resource;
 
+@Resource
 public class User {
 
     private long id;
